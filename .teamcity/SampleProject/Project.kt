@@ -22,11 +22,11 @@ object Project : Project({
     features {
         versionedSettings {
             id = "PROJECT_EXT_24"
-            mode = Mode.ENABLED
-            buildSettingsMode = BuildSettingsMode.USE_CURRENT_SETTINGS
+            mode = VersionedSettings.Mode.ENABLED
+            buildSettingsMode = VersionedSettings.BuildSettingsMode.PREFER_SETTINGS_FROM_VCS
             rootExtId = SampleProject_HttpsGithubComJuliaAlexandrovaSampleProjectRefsHeadsMaster.extId
             showChanges = false
-            settingsFormat = Format.KOTLIN
+            settingsFormat = VersionedSettings.Format.KOTLIN
         }
     }
 })

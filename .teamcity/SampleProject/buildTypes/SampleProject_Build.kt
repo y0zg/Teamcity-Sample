@@ -13,17 +13,18 @@ object SampleProject_Build : BuildType({
     extId = "SampleProject_Build"
     name = "Build"
 
+    vcs {
+        root(SampleProject.vcsRoots.SampleProject_HttpsGithubComJuliaAlexandrovaSampleProjectRefsHeadsMaster)
+
+    }
+
     steps {
         maven {
+            executionMode = BuildStep.ExecutionMode.RUN_ON_FAILURE
             goals = "package"
             userSettingsPath = ""
             param("maven.home", "")
         }
-    }
-
-    vcs {
-        root(SampleProject.vcsRoots.SampleProject_HttpsGithubComJuliaAlexandrovaSampleProjectRefsHeadsMaster)
-
     }
 
     triggers {
