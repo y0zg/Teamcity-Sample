@@ -19,6 +19,8 @@ object Project : Project({
 
     buildType(SampleProject_Build)
     buildType(SampleProject_Build1)
+    buildType(SampleProject_Build2)
+
 
     features {
         versionedSettings {

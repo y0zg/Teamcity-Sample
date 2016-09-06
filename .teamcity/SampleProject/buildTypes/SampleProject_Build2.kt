@@ -9,7 +9,7 @@ import jetbrains.buildServer.configs.kotlin.v10.triggers.VcsTrigger.*
 import jetbrains.buildServer.configs.kotlin.v10.triggers.vcs
 
 object SampleProject_Build2 : BuildType({
-    uuid = "new-e2a86c69-4227-48e3-b879-cd879176f766"
+    uuid = "newBuildType2"
     extId = "SampleProject_Build2"
     name = "Build2"
 
