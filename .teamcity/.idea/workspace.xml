@@ -24,9 +24,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3984fa54-f44f-457b-a8dc-cff030116a2d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SampleProject/buildTypes/SampleProject_Build.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SampleProject/Project.kt" afterPath="$PROJECT_DIR$/SampleProject/Project.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SampleProject/buildTypes/SampleProject_Build2.kt" afterPath="$PROJECT_DIR$/SampleProject/buildTypes/SampleProject_Build2.kt" />
     </list>
     <ignored path="SampleProject_dsl.iws" />
@@ -72,8 +69,8 @@
       <file leaf-file-name="SampleProject_Build1.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SampleProject/buildTypes/SampleProject_Build1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="545">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="e#34#497#0" expanded="true" />
               </folding>
@@ -84,8 +81,8 @@
       <file leaf-file-name="SampleProject_Build2.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SampleProject/buildTypes/SampleProject_Build2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="511">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="e#34#497#0" expanded="true" />
               </folding>
@@ -653,15 +650,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473157890340</updated>
-      <workItem from="1473157896950" duration="2643000" />
+      <workItem from="1473157896950" duration="2889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2643000" />
+    <option name="totallyTimeSpent" value="2889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -741,8 +738,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SampleProject/buildTypes/SampleProject_Build1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="545">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="e#34#497#0" expanded="true" />
           </folding>
@@ -751,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SampleProject/buildTypes/SampleProject_Build2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="511">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="e#34#497#0" expanded="true" />
           </folding>
