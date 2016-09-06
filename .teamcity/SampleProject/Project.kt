@@ -18,6 +18,7 @@ object Project : Project({
     vcsRoot(SampleProject_HttpsGithubComJuliaAlexandrovaSampleProjectRefsHeadsMaster)
 
     buildType(SampleProject_Build)
+    buildType(SampleProject_Build2)
 
     features {
         versionedSettings {

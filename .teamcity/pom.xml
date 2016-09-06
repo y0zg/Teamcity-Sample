@@ -20,7 +20,7 @@
     </repository>
     <repository>
       <id>teamcity-server</id>
-      <url>http://tcqa-trunk-upgrade.labs.intellij.net:8111/app/dsl-plugins-repository</url>
+      <url>http://localhost:8111/app/dsl-plugins-repository</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
