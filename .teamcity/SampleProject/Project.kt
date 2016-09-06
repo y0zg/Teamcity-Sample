@@ -18,7 +18,7 @@ object Project : Project({
     vcsRoot(SampleProject_HttpsGithubComJuliaAlexandrovaSampleProjectRefsHeadsMaster)
 
     buildType(SampleProject_Build)
-    buildType(SampleProject_Build2)
+    buildType(SampleProject_Build1)
 
     features {
         versionedSettings {
@@ -26,7 +26,7 @@ object Project : Project({
             mode = VersionedSettings.Mode.ENABLED
             buildSettingsMode = VersionedSettings.BuildSettingsMode.USE_CURRENT_SETTINGS
             rootExtId = SampleProject_HttpsGithubComJuliaAlexandrovaSampleProjectRefsHeadsMaster.extId
-            showChanges = true
+            showChanges = false
             settingsFormat = VersionedSettings.Format.KOTLIN
         }
     }
