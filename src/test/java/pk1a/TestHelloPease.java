@@ -1,6 +1,6 @@
 package test.java.pk1a;
 
- //fffffffffffffffffffffffffffffffff
+ //
 import main.java.pk1.HelloPease;
 import junit.framework.*;
 //fffff
