@@ -5,7 +5,7 @@ import main.java.pk1.HelloPease;
 import junit.framework.*;
 //ffffff
 //dfdfdf
-//jjjjjjjjjjjjjjjjjjjjjjj
+
 public class  TestHelloPease extends TestCase {
   public void testSimpleMessage() {
      String message = new HelloPease("World222").sayHello();
